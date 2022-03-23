@@ -1,0 +1,19 @@
+body{
+    font-family: "Times New Roman";
+}
+header{
+    background-color: #202020;
+    height: 60px;
+}
+.logo{
+    float: left;
+    padding: 18px;
+    font-size: 19px;
+    color: #eeeeee;
+}
+.bgm{
+    float: right;
+}
+.main{
+    padding: 60px 80px;
+}
