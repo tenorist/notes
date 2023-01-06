@@ -5,7 +5,7 @@
 
 ## 数学系
 - 作問集part1
-$y=x^2$
+$$ y=x^2 $$
 
 ## 雑
 - [競プロクイズ](https://tenory.wixsite.com/kyopro-quiz1)（昔作ったサイト）
