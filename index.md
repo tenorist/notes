@@ -2,7 +2,7 @@
 ![last commit](https://img.shields.io/github/last-commit/tenorist/notes?color=aquamarine)
 ## 音楽
 - [曲名当てクイズ（楽譜編）](music/musiq-score.md)
-- [曲名当てクイズ（音声編）](music/musiq-score.md)
+- [曲名当てクイズ（音声編）](music/musiq-sound.md)
 
 ## 数学
 - ???
