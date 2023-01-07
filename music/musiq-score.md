@@ -1,6 +1,6 @@
 # 曲名当てクイズ（楽譜編）
 ## ヴァイオリン部門
-Violin Soloの曲（協奏曲も含む）<br>
+ヴァイオリンソナタ・協奏曲、その他小品<br>
 [No.1](score/vn1.png)<br>
 [No.2](score/vn2.png)<br>
 [No.3](score/vn3.png)<br>
@@ -13,7 +13,7 @@ Violin Soloの曲（協奏曲も含む）<br>
 [No.10](score/vn10.png)<br>
 -->
 ## ピアノ部門
-Piano Soloの曲（協奏曲も含む）<br>
+ピアノソナタ・協奏曲、その他小品<br>
 [No.1](score/pf1.png)<br>
 [No.2](score/pf2.png)<br>
 [No.3](score/pf3.png)<br>
@@ -27,8 +27,7 @@ Piano Soloの曲（協奏曲も含む）<br>
 [No.10](score/pf10.png)<br>
 -->
 
-## その他
-アンサンブル・オケの曲など<br>
+## アンサンブル・オケ部門
 [No.1](score/ot1.png)<br>
 [No.2](score/ot2.png)<br>
 [No.3](score/ot3.png)<br>
