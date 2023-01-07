@@ -10,3 +10,4 @@
 
 ## 雑
 - [競プロクイズ](https://tenory.wixsite.com/kyopro-quiz1)（昔作ったサイト）
+- [PC環境調査](others/pc-survey.pdf)（過去に行った謎の調査、結構な量の回答を得た）
