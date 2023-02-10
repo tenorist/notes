@@ -1,4 +1,5 @@
 # HOME
+[![pages-build-deployment](https://github.com/tenorist/notes/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tenorist/notes/actions/workflows/pages/pages-build-deployment)
 
 ## Music
 - [曲名当てクイズ（楽譜編）](music/musiq-score.md)
