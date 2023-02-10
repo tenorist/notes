@@ -6,8 +6,9 @@
 - [曲名当てクイズ（総合問題）](music/general1.md)
 
 ## Math
+- [数オリ本選の要点](math/ho_tips.md)
 - [数オリ予選の得点推移](math/yo.md)
-- [数学クイズ1](math/quiz1/gate.md)
+- [数学クイズNo.1](math/quiz1/gate.md)
 
 ## Others
 - [競プロクイズ](https://tenory.wixsite.com/kyopro-quiz1)（昔作ったサイト）
